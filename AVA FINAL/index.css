@@ -1,0 +1,42 @@
+body {
+    background-color: #007bff; /* Azul vibrante */
+    color: #fff; /* Texto branco */
+    font-family: Arial, sans-serif; /* Fonte padrão */
+}
+
+.container {
+    margin-top: 50px; /* Margem superior para afastar do topo */
+}
+
+h1 {
+    text-align: center; /* Centralizar título */
+}
+
+.btn-primary {
+    background-color: #0056b3; /* Azul mais escuro para botão principal */
+    border-color: #0056b3; /* Mesma cor da borda */
+}
+
+.btn-primary:hover {
+    background-color: #004080; /* Escurece ligeiramente ao passar o mouse */
+    border-color: #004080; /* Mesma cor da borda */
+}
+
+.list-group-item {
+    background-color: #004080; /* Azul escuro para itens da lista */
+    border-color: #004080; /* Mesma cor da borda */
+    margin-top: 10px; /* Espaçamento entre itens da lista */
+}
+
+.list-group-item span {
+    color: #fff; /* Texto branco para tarefas */
+}
+
+.list-group-item .btn {
+    margin-top: -3px; /* Ajuste de espaçamento para botões na lista */
+}
+
+.list-group-item .badge {
+    margin-left: 5px; /* Espaçamento entre as badges */
+}
+
